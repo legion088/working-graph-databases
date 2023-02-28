@@ -1,11 +1,10 @@
 # Описание работы:
 Первое знакомство с графовыми БД и языком запросов Cypher. <br>
 Работа выполнена за 3 дня. <br> 
-В `Readme.md` представлена поэтапное выполнение работы в виде анимации, также можно посмотреть видео по [ссылке](https://cloud.mail.ru/public/8Ktw/Q49kEQowY). (Не забудьте переключить качество). <br>
-Посмотреть результат работы `ipynb` ноутбук в формате `.html` можно [здесь]<br>
-
-<br>
-Примененные запросы:<br><br>
+В `Readme.md` представлено поэтапное выполнение работы в виде анимации, также можно посмотреть видео по [ссылке.](https://cloud.mail.ru/public/VNEb/mbcg4hm47) (Не забудьте переключить качество). <br>
+Посмотреть результат работы `ipynb` ноутбук в формате `.pdf` можно [здесь.](https://github.com/legion088/working-graph-databases/blob/main/presents/graph_tasks.pdf)<br><br>
+![anime-work](https://github.com/legion088/working-graph-databases/blob/main/presents/animation.gif)<br><br>
+**Примененные запросы:**
 
 ```html
 MATCH (n)
@@ -32,8 +31,7 @@ MATCH (properties: Participants1 | Participants2)
 WHERE properties.name = $name
 RETURN properties ```
 ```
-<br>
-Ссылки на документацию (не все):<br>
+**Ссылки на документацию (не все):**<br>
 https://neo4j.com/docs/cypher-manual<br>
 https://neo4j.com/docs/python-manual/current/<br>
 https://habr.com/ru/post/650623/<br>
