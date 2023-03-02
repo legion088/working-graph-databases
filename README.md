@@ -4,7 +4,6 @@
 В `Readme.md` представлено поэтапное выполнение работы в виде анимации, также можно посмотреть видео по [ссылке.](https://cloud.mail.ru/public/VNEb/mbcg4hm47) (Не забудьте переключить качество). <br><br>
 ![anime-work](https://github.com/legion088/working-graph-databases/blob/main/presents/animation.gif)<br><br>
 **Примененные запросы:**
-
 ```html
 MATCH (n)
 DETACH DELETE n
