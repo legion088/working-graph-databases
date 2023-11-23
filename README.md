@@ -1,8 +1,7 @@
 # Описание работы:
 Первое знакомство с графовыми БД и языком запросов Cypher. <br>
 Работа выполнена за 3 дня. <br> 
-В `Readme.md` представлено поэтапное выполнение работы в виде анимации, также можно посмотреть видео по [ссылке.](https://cloud.mail.ru/public/VNEb/mbcg4hm47) (Не забудьте переключить качество). <br><br>
-![anime-work](https://github.com/legion088/working-graph-databases/blob/main/presents/animation.gif)<br><br>
+В `Readme.md` представлено поэтапное выполнение работы в виде анимации.
 **Примененные запросы:**
 ```html
 MATCH (n)
